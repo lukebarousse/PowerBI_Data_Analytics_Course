@@ -1,4 +1,4 @@
 .DS_Store
-*.pbix
-*.csv
-Data/
+Problem_Screenshots/
+job_postings_flat.csv
+Jobs_BigQuery_Import.pbix
