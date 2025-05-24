@@ -1,0 +1,42 @@
+﻿job_id,job_title,department,manager_name,yearly_salary,experience_level,job_type,date_posted,job_post_website_url
+1,Data Analyst,Analytics,Sarah Lee,82000,Entry,Full-time,5/1/25,https://www.linkedin.com/
+2,Junior Data Scientist,Data Science,Ahmed Khan,78000,Entry,Full-time,5/1/25,https://www.indeed.com/
+3,BI Analyst,Business Intelligence,Angela Wu,92500,Mid,Full-time,5/2/25,https://www.indeed.com/
+4,Data Science Intern,Data Science,Ahmed Khan,45000,Intern,Internship,5/2/25,https://www.indeed.com/
+5,Data Engineer,Engineering,Luke Brown,105000,Senior,Full-time,5/2/25,https://www.linkedin.com/
+6,Analytics Manager,Analytics,Sarah Lee,115000,Senior,Full-time,5/3/25,https://www.linkedin.com/
+7,Analytics Engineer,Analytics,Sarah Lee,75000,Mid,Part-time,5/3/25,https://www.indeed.com/
+8,Data QA Specialist,Engineering,Luke Brown,68000,Entry,Contractor,5/4/25,https://www.indeed.com/
+9,Statistician,Data Science,Ahmed Khan,99000,Senior,Full-time,5/4/25,https://www.linkedin.com/
+10,Business Data Analyst,Analytics,Sarah Lee,89000,Mid,Full-time,5/4/25,https://www.linkedin.com/
+11,ML Engineer,Data Science,Ahmed Khan,150000,Mid,Contractor,5/5/25,https://www.indeed.com/
+12,Cloud Data Engineer,Engineering,Luke Brown,110000,Senior,Contractor,5/5/25,https://www.indeed.com/
+13,BI Analyst,Business Intelligence,Angela Wu,80000,Mid,Full-time,5/6/25,https://www.linkedin.com/
+14,Junior Data Engineer,Engineering,Luke Brown,70000,Entry,Full-time,5/6/25,https://www.linkedin.com/
+15,Quantitative Analyst,Operations,Sarah Lee,102000,Senior,Contractor,5/6/25,https://www.indeed.com/
+16,Senior Data Scientist,Data Science,Ahmed Khan,48000,Intern,Internship,5/7/25,https://www.indeed.com/
+17,Data Governance Analyst,Business Intelligence,Angela Wu,94000,Mid,Part-time,5/7/25,https://www.indeed.com/
+18,Senior BI Consultant,Business Intelligence,Angela Wu,120000,Senior,Full-time,5/7/25,https://www.linkedin.com/
+19,Data Compliance Officer,Operations,Sarah Lee,88500,Mid,Full-time,5/8/25,https://www.linkedin.com/
+20,Senior Data Engineer,Engineering,Luke Brown,125000,Senior,Contractor,5/8/25,https://www.indeed.com/
+21,Data Scientist,Data Science,Ahmed Khan,111000,Mid,Full-time,5/8/25,https://www.linkedin.com/
+22,Data Engineer,Analytics,Rachel Kim,81224,Intern,Full-time,5/18/25,https://www.indeed.com/
+23,Data Engineer,Analytics,Rachel Kim,73479,Intern,Internship,5/7/25,https://www.indeed.com/
+24,Data Engineer,Analytics,Rachel Kim,62216,Senior,Full-time,5/23/25,https://www.linkedin.com/
+25,Data Engineer,Engineering,Mei Lin,93789,Entry,Full-time,5/11/25,https://www.indeed.com/
+26,Data Engineer,Operations,Jorge Mendez,59553,Intern,Full-time,5/13/25,https://www.indeed.com/
+27,Data Engineer,Analytics,Rachel Kim,79799,Intern,Part-time,5/3/25,https://www.indeed.com/
+28,Data Scientist,Business Intelligence,Jason Patel,57468,Mid,Internship,5/9/25,https://www.indeed.com/
+29,Data Engineer,Analytics,Rachel Kim,59078,Entry,Internship,5/19/25,https://www.linkedin.com/
+30,Data Analyst,Analytics,Rachel Kim,45714,Senior,Full-time,5/13/25,https://www.indeed.com/
+31,Data Scientist,Operations,Jorge Mendez,63876,Intern,Internship,5/16/25,https://www.indeed.com/
+32,Data Scientist,Analytics,Rachel Kim,104423,Mid,Full-time,5/10/25,https://www.indeed.com/
+33,Data Analyst,Data Science,Daniel Cho,52822,Senior,Internship,5/10/25,https://www.indeed.com/
+34,Data Scientist,Operations,Jorge Mendez,56514,Mid,Part-time,5/28/25,https://www.indeed.com/
+35,Data Analyst,Data Science,Daniel Cho,83716,Senior,Internship,5/13/25,https://www.linkedin.com/
+36,Data Engineer,Business Intelligence,Jason Patel,52844,Mid,Full-time,5/10/25,https://www.linkedin.com/
+37,Data Engineer,Engineering,Mei Lin,112777,Entry,Contractor,5/18/25,https://www.indeed.com/
+38,Data Engineer,Data Science,Daniel Cho,61060,Mid,Part-time,5/23/25,https://www.indeed.com/
+39,Data Analyst,Engineering,Mei Lin,59548,Entry,Part-time,5/4/25,https://www.linkedin.com/
+40,Data Analyst,Engineering,Mei Lin,67180,Mid,Part-time,5/26/25,https://www.indeed.com/
+41,Data Scientist,Analytics,Rachel Kim,107224,Entry,Part-time,5/22/25,https://www.linkedin.com/
