@@ -1,7 +1,7 @@
 # Data Jobs Dashboard w/ Power BI
 
-[![Data Jobs Dashboard GIF](../Resources/images/Project1_Dashboard_Overview.gif)](https://lukeb.co/powerbi-project1)
-> [📊 View interactive dashboard here on the Power BI Service](https://lukeb.co/powerbi-project1)
+[![Data Jobs Dashboard GIF](../Resources/images/Project1_Dashboard_Overview.gif)](https://lukeb.co/powerbi-project1){:target="_blank"}
+> [📊 View interactive dashboard here on the Power BI Service](https://lukeb.co/powerbi-project1){:target="_blank"}
 
 ## Introduction
 
