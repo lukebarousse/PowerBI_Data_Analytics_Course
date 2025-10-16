@@ -1,5 +1,26 @@
+# Exclude files that exceed GitHub's 100MB limit
+Resources/Project_Examples/Jobs_BigQuery_Import.pbix
+Data/job_postings_flat.csv
+
+# Windows thumbnail files
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+# macOS
 .DS_Store
-Problem_Screenshots/
-5_Project/
-job_postings_flat.csv
-Jobs_BigQuery_Import.pbix
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# Power BI temporary files
+*.pbit
+
+# Other Folders
+Resources/Problem_Screenshots/
