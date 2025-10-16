@@ -3,6 +3,8 @@
 Data Nerds! This repo contains all the files needed to follow along my free course: [Power BI for Data Analytics]()
 [![Power BI for Data Analytics](/Resources/images/0_PowerBI_Thubmnail.png)]()
 
+> ⚠️ **Download from Google Drive, not GitHub!** Some files are missing here due to GitHub's 100MB limit. Get complete course files from [**Google Drive**](https://lukeb.co/powerbi-files)
+
 ## Team Members 👥
 **🙋🏼‍♂️ Course Leader:** [Luke Barousse](https://www.linkedin.com/in/luke-b)  
 **🎬 Course Producer:** [Kelly Adams](https://www.linkedin.com/in/kellyjianadams)  
